@@ -1,0 +1,736 @@
+Year,State,Name,Party,Total_Spent,Winner_Flag,Winner,Longitude,Latitude,Wiki_Link
+2020,Alabama,Doug Jones,D,32710699,0,R,822,500,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Alabama
+2020,Alabama,Tommy Tuberville,R,9432335,1,R,822,500,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Alabama
+2020,Alaska,Al Gross,D,19545631,0,R,117,601,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Alaska
+2020,Alaska,Dan Sullivan,R,10145559,1,R,117,601,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Alaska
+2020,Arizona,Mark Kelly,D,99704060,1,D,243,442,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Arizona
+2020,Arizona,Martha McSally,R,74361789,0,D,243,442,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Arizona
+2020,Arkansas,Ricky Dale Harrington ,I,36347,0,R,684,460,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Arkansas
+2020,Arkansas,Tom Cotton,R,6846753,1,R,684,460,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Arkansas
+2020,Colorado,Cory Gardner,R,28026301,0,D,396,338,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Colorado
+2020,Colorado,John Hickenlooper,D,42604035,1,D,396,338,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Colorado
+2020,Delaware,Chris Coons,D,6095494,1,D,1046,303,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Delaware
+2020,Delaware,Lauren Witzke,R,476181.6,0,D,1046,303,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Delaware
+2020,Georgia,David Perdue,R,90354529,0,D,896,492,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Georgia
+2020,Georgia,John Ossoff,D,152000000,1,D,896,492,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Georgia
+2020,Idaho,Jim Risch,R,2284606,1,R,240,179,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Idaho
+2020,Idaho,Paulette Jordan,D,1109704,0,R,240,179,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Idaho
+2020,Illinois,Dick Durbin,D,10204830,1,D,750,307,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Illinois
+2020,Illinois,Mark Curran,R,376608.2,0,D,750,307,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Illinois
+2020,Iowa,Joni Ernst,R,30265789,1,R,658,260,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Iowa
+2020,Iowa,Theresa Greenfield,D,56328076,0,R,658,260,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Iowa
+2020,Kansas,Barbara Bollier,D,28841685,0,R,555,355,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Kansas
+2020,Kansas,Roger Marshall,R,7171199,1,R,555,355,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Kansas
+2020,Kentucky,Amy McGrath,D,92942100,0,R,855,366,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Kentucky
+2020,Kentucky,Mitch McConnell,R,67388726,1,R,855,366,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Kentucky
+2020,Louisiana,Adrian Perkins,D,2651684,0,R,687,557,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Louisiana
+2020,Louisiana,Bill Cassidy,R,10727747,1,R,687,557,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Louisiana
+2020,Maine,Sara Gideon,D,64069683,0,R,1126,99,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Maine
+2020,Maine,Susan Collins,R,30417005,1,R,1126,99,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Maine
+2020,Massachusetts,Ed Markey,D,15051879,1,D,1093,192,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Massachusetts
+2020,Massachusetts,Kevin O'Connor,R,884050.8,0,D,1093,192,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Massachusetts
+2020,Michigan,Gary Peters,D,50890960,1,D,827,209,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Michigan
+2020,Michigan,John James,R,47661002,0,D,827,209,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Michigan
+2020,Minnesota,Jason Lewis,R,6713813,0,D,633,153,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Minnesota
+2020,Minnesota,Tina Smith,D,16100432,1,D,633,153,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Minnesota
+2020,Montana,Steve Bullock,D,48572770,0,R,340,118,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Montana
+2020,Montana,Steve Daines,R,34075789,1,R,340,118,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Montana
+2020,Nebraska,Ben Sasse,R,5168783,1,R,520,273,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Nebraska
+2020,Nebraska,Chris Janicek,D,141423.5,0,R,520,273,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Nebraska
+2020,New Hampshire,Corky Messner,R,7091753,0,D,1092,157,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_New_Hampshire
+2020,New Hampshire,Jeanne Shaheen,D,18861334,1,D,1092,157,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_New_Hampshire
+2020,New Jersey,Cory Booker,D,11579012,1,D,1057,260,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_New_Jersey
+2020,New Jersey,Rik Mehta,R,586154.1,0,D,1057,260,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_New_Jersey
+2020,New Mexico,Ben Ray Lujan,D,9596963,1,D,377,450,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_New_Mexico
+2020,New Mexico,Mark Ronchetti,R,3966351,0,D,377,450,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_New_Mexico
+2020,North Carolina,Cal Cunningham,D,52395430,0,R,991,403,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_North_Carolina
+2020,North Carolina,Thom Tillis,R,26370206,1,R,991,403,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_North_Carolina
+2020,Oklahoma,Abby Broyles,D,2062804,0,R,575,437,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Oklahoma
+2020,Oklahoma,Jim Inhofe,R,5761858,1,R,575,437,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Oklahoma
+2020,Oregon,Jeff Merkley,D,8277385,1,D,120,150,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Oregon
+2020,Oregon,Jo Rae Perkins,R,123508.2,0,D,120,150,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Oregon
+2020,Rhode Island,Allen Waters,R,22367.71,0,D,1109,209,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Rhode_Island
+2020,Rhode Island,Jack Reed,D,3984162,1,D,1109,209,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Rhode_Island
+2020,South Carolina,Jaime Harrison,D,132000000,0,R,956,458,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_South_Carolina
+2020,South Carolina,Lindsey Graham,R,102000000,1,R,956,458,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_South_Carolina
+2020,South Dakota,Dan Ahlers,D,253114.1,0,R,525,194,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_South_Dakota
+2020,South Dakota,Mike Rounds,R,3246188,1,R,525,194,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_South_Dakota
+2020,Tennessee,Bill Hagerty,R,15717519,1,R,823,418,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Tennessee
+2020,Tennessee,Marquita Bradshaw,D,1612771,0,R,823,418,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Tennessee
+2020,Texas,John Cornyn,R,36654082,1,R,532,547,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Texas
+2020,Texas,MJ Hegar,D,29558487,0,R,532,547,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Texas
+2020,Virginia,Daniel Gade,R,4918186,0,D,991,342,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Virginia
+2020,Virginia,Mark Warner,D,17150515,1,D,991,342,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Virginia
+2020,West Virginia,Paula Jean Swearengin,D,1998997,0,R,932,327,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_West_Virginia
+2020,West Virginia,Shelley Moore Capito,R,3967986,1,R,932,327,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_West_Virginia
+2020,Wyoming,Cynthia Lummis,R,3037813,1,R,375,227,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Wyoming
+2020,Wyoming,Merav Ben-David,D,545348.3,0,R,375,227,https://en.m.wikipedia.org/wiki/2020_United_States_Senate_election_in_Wyoming
+2018,Arizona,Kyrsten Sinema,D,24735383,1,D,243,442,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Arizona
+2018,Arizona,Martha McSally,R,20952576,0,D,243,442,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Arizona
+2018,California,Dianne Feinstein,D,24497308.68,1,D,100,355,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_California
+2018,California,Kevin de León,D,1775218.37,0,D,100,355,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_California
+2018,Connecticut,Chris Murphy,D,10496473,1,D,1083,217,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Connecticut
+2018,Connecticut,Matthew Corey,R,173092.4,0,D,1083,217,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Connecticut
+2018,Delaware,Rob Arlett,R,223795.1,0,D,1046,303,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Delaware
+2018,Delaware,Tom Carper,D,4887154,1,D,1046,303,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Delaware
+2018,Florida,Bill Nelson,D,33367570,0,R,961,612,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Florida
+2018,Florida,Rick Scott,R,83771112,1,R,961,612,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Florida
+2018,Hawaii,Mazie Hirono,D,4024270,1,D,382,682,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Hawaii
+2018,Hawaii,Ron Curtis,R,19926,0,D,382,682,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Hawaii
+2018,Indiana,Joe Donnelly,D,17173078,0,R,812,306,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Indiana
+2018,Indiana,Mike Braun,R,19591836,1,R,812,306,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Indiana
+2018,Maine,Angus King,D,5150506,1,D,1126,99,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Maine
+2018,Maine,Eric Brakey,R,962182.9,0,D,1126,99,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Maine
+2018,Maryland,Ben Cardin,D,4386408,1,D,1014,297,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Maryland
+2018,Maryland,Tony Campbell,R,203942.4,0,D,1014,297,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Maryland
+2018,Massachusetts,Elizabeth Warren,D,24406936,1,D,1093,192,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Massachusetts
+2018,Massachusetts,Geoff Diehl,R,3015368,0,D,1093,192,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Massachusetts
+2018,Michigan,Debbie Stabenow,D,17225717,1,D,827,209,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Michigan
+2018,Michigan,John James,R,12043512,0,D,827,209,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Michigan
+2018,Minnesota,Amy Klobuchar,D,9571860,1,D,633,153,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Minnesota
+2018,Minnesota,Jim Newberger,R,258688.7,0,D,633,153,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Minnesota
+2018,Mississippi,David Baria,D,876607.4,0,R,752,502,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Mississippi
+2018,Mississippi,Roger Wicker,R,7069901,1,R,752,502,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Mississippi
+2018,Missouri,Claire McCaskill,D,39471364,0,R,680,359,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Missouri
+2018,Missouri,Josh Hawley,R,11470517,1,R,680,359,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Missouri
+2018,Montana,Jon Tester,D,20822247,1,D,340,118,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Montana
+2018,Montana,Matt Rosendale,R,5924058,0,D,340,118,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Montana
+2018,Nebraska,Deb Fischer,R,6048167,1,R,520,273,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Nebraska
+2018,Nebraska,Jane Raybould,D,2104607,0,R,520,273,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Nebraska
+2018,Nevada,Dean Heller,R,15557570,0,D,167,290,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Nevada
+2018,Nevada,Jacky Rosen,D,26079221,1,D,167,290,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Nevada
+2018,New Jersey,Bob Hugin,R,39113138,0,D,1057,260,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_New_Jersey
+2018,New Jersey,Bob Menendez,D,13664479,1,D,1057,260,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_New_Jersey
+2018,New Mexico,Martin Heinrich,D,8030924,1,D,377,450,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_New_Mexico
+2018,New Mexico,Mick Rich,R,967618.4,0,D,377,450,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_New_Mexico
+2018,New York,Chele Chiavacci Farley,R,1385101,0,D,1026,194,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_New_York
+2018,New York,Kirsten Gillibrand,D,12540956,1,D,1026,194,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_New_York
+2018,North Dakota,Heidi Heitkamp,D,25186790,0,R,525,116,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_North_Dakota
+2018,North Dakota,Kevin Cramer,R,6231101,1,R,525,116,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_North_Dakota
+2018,Ohio,Jim Renacci,R,12664106,0,D,884,294,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Ohio
+2018,Ohio,Sherrod Brown,D,27997834,1,D,884,294,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Ohio
+2018,Pennsylvania,Bob Casey Jr.,D,21412915,1,D,991,257,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Pennsylvania
+2018,Pennsylvania,Lou Barletta,R,7760182,0,D,991,257,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Pennsylvania
+2018,Rhode Island,Robert Flanders,R,1211223,0,D,1109,209,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Rhode_Island
+2018,Rhode Island,Sheldon Whitehouse,D,6783166,1,D,1109,209,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Rhode_Island
+2018,Tennessee,Marsha Blackburn,R,16572478,1,R,823,418,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Tennessee
+2018,Tennessee,Phil Bredesen,D,19461777,0,R,823,418,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Tennessee
+2018,Texas,Beto O'Rourke,D,80458720,0,R,532,547,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Texas
+2018,Texas,Ted Cruz,R,45990176,1,R,532,547,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Texas
+2018,Utah,Jenny Wilson,D,960455.7,0,R,274,310,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Utah
+2018,Utah,Mitt Romney,R,5294219,1,R,274,310,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Utah
+2018,Vermont,Bernie Sanders,D,8200325,1,D,1066,145,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Vermont
+2018,Vermont,Lawrence Zupan,R,170527,0,D,1066,145,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Vermont
+2018,Virginia,Corey Stewart,R,2785266,0,D,991,342,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Virginia
+2018,Virginia,Tim Kaine,D,19571406,1,D,991,342,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Virginia
+2018,Washington,Maria Cantwell,D,11964267,1,D,143,62,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Washington
+2018,Washington,Susan Hutchison,R,1933256,0,D,143,62,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Washington
+2018,West Virginia,Joe Manchin,D,8998899,1,D,932,327,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_West_Virginia
+2018,West Virginia,Patrick Morrisey,R,6153109,0,D,932,327,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_West_Virginia
+2018,Wisconsin,Leah Vukmir,R,5810340,0,D,729,195,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Wisconsin
+2018,Wisconsin,Tammy Baldwin,D,31549383,1,D,729,195,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Wisconsin
+2018,Wyoming,Gary Trauner,D,910723.3,0,R,375,227,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Wyoming
+2018,Wyoming,John Barrasso,R,6048766,1,R,375,227,https://en.m.wikipedia.org/wiki/2018_United_States_Senate_election_in_Wyoming
+2016,Alabama,Richard Shelby,R,12083489,1,R,822,500,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Alabama
+2016,Alabama,Ron Crumpton,D,32369,0,R,822,500,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Alabama
+2016,Alaska,Lisa Murkowski,D,7167503,0,R,117,601,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Alaska
+2016,Alaska,Ray Metcalfe,R,7167503,1,R,117,601,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Alaska
+2016,Arizona,Ann Kirkpatrick,D,9270128,0,R,243,442,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Arizona
+2016,Arizona,John McCain,R,14359218,1,R,243,442,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Arizona
+2016,Arkansas,Conner Eldridge,D,2279847,0,R,684,460,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Arkansas
+2016,Arkansas,John Boozman,R,4496399,1,R,684,460,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Arkansas
+2016,California,Kamala Harris,D,14420725,1,D,100,355,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_California
+2016,California,Loretta Sanchez,D,4482978,0,D,100,355,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_California
+2016,Colorado,Darryl Glenn,R,4046711,0,D,396,338,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Colorado
+2016,Colorado,Michael Bennet,D,16480485,1,D,396,338,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Colorado
+2016,Connecticut,Dan Carter,R,375795,0,D,1083,217,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Connecticut
+2016,Connecticut,Richard Blumenthal,D,6067689,1,D,1083,217,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Connecticut
+2016,Florida,Marco Rubio,R,21289500,1,R,961,612,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Florida
+2016,Florida,Patrick Murphy,D,19154368,0,R,961,612,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Florida
+2016,Georgia,Jim Barksdale,D,4074479,0,R,896,492,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Georgia
+2016,Georgia,Johnny Isakson,R,11593873,1,R,896,492,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Georgia
+2016,Hawaii,Brian Schatz,D,2549166,1,D,382,682,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Hawaii
+2016,Hawaii,John Carroll,R,54417,0,D,382,682,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Hawaii
+2016,Idaho,Jerry Sturgill,D,818484,0,R,240,179,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Idaho
+2016,Idaho,Mike Crapo,R,5851739,1,R,240,179,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Idaho
+2016,Illinois,Mark Kirk,R,12352097,0,D,750,307,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Illinois
+2016,Illinois,Tammy Duckworth,D,16761919,1,D,750,307,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Illinois
+2016,Indiana,Evan Bayh,D,14187171,0,R,812,306,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Indiana
+2016,Indiana,Todd Young,R,11394679,1,R,812,306,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Indiana
+2016,Iowa,Chuck Grassley,R,10804669,1,R,658,260,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Iowa
+2016,Iowa,Patty Judge,D,2188233,0,R,658,260,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Iowa
+2016,Kansas,Jerry Moran,R,5715751,1,R,555,355,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Kansas
+2016,Kansas,Patrick Wiesner,D,38286,0,R,555,355,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Kansas
+2016,Kentucky,Jim Gray,D,6389762,0,R,855,366,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Kentucky
+2016,Kentucky,Rand Paul,R,11142100,1,R,855,366,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Kentucky
+2016,Louisiana,Foster Campbell,D,6339738,0,R,687,557,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Louisiana
+2016,Louisiana,John Kennedy,R,5050026,1,R,687,557,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Louisiana
+2016,Maryland,Chris Van Hollen,D,11481663,1,D,1014,297,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Maryland
+2016,Maryland,Kathy Szeliga,R,1544221,0,D,1014,297,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Maryland
+2016,Missouri,Jason Kander,D,13186976,0,R,680,359,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Missouri
+2016,Missouri,Roy Blunt,R,16182432,1,R,680,359,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Missouri
+2016,Nevada,Catherine Cortez Masto,D,19005870,1,D,167,290,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Nevada
+2016,Nevada,Joe Heck,R,11908775,0,D,167,290,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Nevada
+2016,New Hampshire,Kelly Ayotte,R,16093175,0,D,1092,157,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_New_Hampshire
+2016,New Hampshire,Maggie Hassan,D,18564772,1,D,1092,157,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_New_Hampshire
+2016,New York,Chuck Schumer,D,24771506,1,D,1026,194,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_New_York
+2016,New York,Wendy Long,R,184497,0,D,1026,194,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_New_York
+2016,North Carolina,Deborah Ross,D,14414696,0,R,991,403,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_North_Carolina
+2016,North Carolina,Richard Burr,R,10212664,1,R,991,403,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_North_Carolina
+2016,North Dakota,Eliot Glassheim,D,32793,0,R,525,116,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_North_Dakota
+2016,North Dakota,John Hoeven,R,2628140,1,R,525,116,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_North_Dakota
+2016,Ohio,Rob Portman,R,26987259,1,R,884,294,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Ohio
+2016,Ohio,Ted Strickland,D,10567811,0,R,884,294,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Ohio
+2016,Oklahoma,James Lankford,R,2800373,1,R,575,437,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Oklahoma
+2016,Oklahoma,Mike Workman,D,0,0,R,575,437,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Oklahoma
+2016,Oregon,Mark Callahan,R,33572,0,D,120,150,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Oregon
+2016,Oregon,Ron Wyden,D,9782114,1,D,120,150,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Oregon
+2016,Pennsylvania,Katie McGinty,D,13021653,0,R,991,257,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Pennsylvania
+2016,Pennsylvania,Pat Toomey,R,31622034,1,R,991,257,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Pennsylvania
+2016,South Carolina,Thomas Dixon,D,40462,0,R,956,458,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_South_Carolina
+2016,South Carolina,Tim Scott,R,4795257,1,R,956,458,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_South_Carolina
+2016,South Dakota,Jay Williams,D,66555,0,R,525,194,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_South_Dakota
+2016,South Dakota,John Thune,R,7109178,1,R,525,194,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_South_Dakota
+2016,Utah,Mike Lee,R,5822361,1,R,274,310,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Utah
+2016,Utah,Misty Snow,D,35706,0,R,274,310,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Utah
+2016,Vermont,Patrick Leahy,D,4946359,1,D,1066,145,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Vermont
+2016,Vermont,Scott Milne,R,106458,0,D,1066,145,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Vermont
+2016,Washington,Chris Vance,R,449371,0,D,143,62,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Washington
+2016,Washington,Patty Murray,D,10869560,1,D,143,62,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Washington
+2016,Wisconsin,Ron Johnson,R,21228172,1,R,729,195,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Wisconsin
+2016,Wisconsin,Russ Feingold,D,24796275,0,R,729,195,https://en.m.wikipedia.org/wiki/2016_United_States_Senate_election_in_Wisconsin
+2014,Alabama,Jeff Sessions,R,2013832,1,R,822,500,https://en.wikipedia.org/wiki/2014_United_States_Senate_election_in_Alabama
+2014,Alaska,Dan Sullivan,R,7797251,1,R,117,601,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Alaska
+2014,Alaska,Mark Begich,D,11103796,0,R,117,601,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Alaska
+2014,Arkansas,Mark Pryor,D,14578754,0,R,684,460,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Arkansas
+2014,Arkansas,Tom Cotton,R,13814166.59,1,R,684,460,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Arkansas
+2014,Colorado,Cory Gardner,R,12490384.37,1,R,396,338,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Colorado
+2014,Colorado,Mark Udall,D,20465694,0,R,396,338,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Colorado
+2014,Delaware,Chris Coons,D,5456856,1,D,1046,303,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Delaware
+2014,Delaware,Kevin Wade,R,111823,0,D,1046,303,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Delaware
+2014,Georgia,David Perdue,R,14196681,1,R,896,492,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Georgia
+2014,Georgia,Michelle Nunn,D,16039490,0,R,896,492,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Georgia
+2014,Hawaii,Brian Schatz,D,5156058,1,D,382,682,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Hawaii
+2014,Hawaii,Campbell Cavasso,R,397610,0,D,382,682,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Hawaii
+2014,Idaho,Jim Risch,R,1826223,1,R,240,179,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Idaho
+2014,Idaho,Nels Mitchell,D,362052,0,R,240,179,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Idaho
+2014,Illinois,Dick Durbin,D,12615728,1,D,750,307,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Illinois
+2014,Illinois,Jim Oberweis,R,2416986,0,D,750,307,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Illinois
+2014,Iowa,Bruce Braley,D,12068095,0,R,658,260,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Iowa
+2014,Iowa,Joni Ernst,R,11913212,1,R,658,260,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Iowa
+2014,Kansas,Greg Orman,I,5702323,0,R,555,355,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Kansas
+2014,Kansas,Pat Roberts,R,8128381,1,R,555,355,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Kansas
+2014,Kentucky,Alison Lundergan Grimes,D,18832174,0,R,855,366,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Kentucky
+2014,Kentucky,Mitch McConnell,R,30690557,1,R,855,366,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Kentucky
+2014,Louisiana,Bill Cassidy,R,14658019,1,R,687,557,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Louisiana
+2014,Louisiana,Mary Landrieu,D,19967826,0,R,687,557,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Louisiana
+2014,Maine,Shenna Bellows,D,2338087,0,R,1126,99,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Maine
+2014,Maine,Susan Collins,R,5703101,1,R,1126,99,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Maine
+2014,Massachusetts,Brian Herr,R,118532,0,D,1093,192,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Massachusetts
+2014,Massachusetts,Ed Markey,D,14686084,1,D,1093,192,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Massachusetts
+2014,Michigan,Gary Peters,D,10289556.38,1,D,827,209,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Michigan
+2014,Michigan,Terri Lynn Land,R,12270548,0,D,827,209,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Michigan
+2014,Minnesota,Al Franken,D,31958990,1,D,633,153,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Minnesota
+2014,Minnesota,Mike McFadden,R,7026515,0,D,633,153,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Minnesota
+2014,Mississippi,Thad Cochran,R,8016704,1,R,752,502,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Mississippi
+2014,Mississippi,Travis Childers,D,688975,0,R,752,502,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Mississippi
+2014,Montana,Amanda Curtis,D,968388,0,R,340,118,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Montana
+2014,Montana,Steve Daines,R,6668759,1,R,340,118,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Montana
+2014,Nebraska,Ben Sasse,R,5864653,1,R,520,273,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Nebraska
+2014,Nebraska,David Domina,D,1227205,0,R,520,273,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Nebraska
+2014,New Hampshire,Jeanne Shaheen,D,16466208,1,D,1092,157,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_New_Hampshire
+2014,New Hampshire,Scott Brown,R,9163652,0,D,1092,157,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_New_Hampshire
+2014,New Jersey,Cory Booker,D,17521163,1,D,1057,260,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_New_Jersey
+2014,New Jersey,Jeff Bell,R,600485,0,D,1057,260,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_New_Jersey
+2014,New Mexico,Allen Weh,R,3630413,0,D,377,450,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_New_Mexico
+2014,New Mexico,Tom Udall,D,8736822,1,D,377,450,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_New_Mexico
+2014,North Carolina,Kay Hagan,D,24851013,0,R,991,403,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_North_Carolina
+2014,North Carolina,Thom Tillis,R,10513963,1,R,991,403,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_North_Carolina
+2014,Oklahoma,Jim Inhofe,R,5168776,1,R,575,437,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Oklahoma
+2014,Oklahoma,Matt Silverstein,D,476444,0,R,575,437,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Oklahoma
+2014,Oregon,Jeff Merkley,D,11401522,1,D,120,150,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Oregon
+2014,Oregon,Monica Wehby,R,3896848,0,D,120,150,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Oregon
+2014,Rhode Island,Jack Reed,D,4649760.74,1,D,1109,209,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Rhode_Island
+2014,Rhode Island,Mark Zaccaria,R,57082,0,D,1109,209,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Rhode_Island
+2014,South Carolina,Brad Hutto,D,522454,0,R,956,458,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_South_Carolina
+2014,South Carolina,Lindsey Graham,R,14199515,1,R,956,458,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_South_Carolina
+2014,South Dakota,Mike Rounds,R,5178529,1,R,525,194,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_South_Dakota
+2014,South Dakota,Rick Weiland,D,2435802,0,R,525,194,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_South_Dakota
+2014,Tennessee,Gordon Ball,D,1972605,0,R,823,418,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Tennessee
+2014,Tennessee,Lamar Alexander,R,8573301,1,R,823,418,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Tennessee
+2014,Texas,David Alameel,D,10265984,0,R,532,547,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Texas
+2014,Texas,John Cornyn,R,12223972,1,R,532,547,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Texas
+2014,Virginia,Ed Gillespie,R,7875545,0,D,991,342,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Virginia
+2014,Virginia,Mark Warner,D,18112444.23,1,D,991,342,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Virginia
+2014,West Virginia,Natalie Tennant,D,3561222,0,R,932,327,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_West_Virginia
+2014,West Virginia,Shelley Moore Capito,R,8803232,1,R,932,327,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_West_Virginia
+2014,Wyoming,Charlie Hardy,D,88284,0,R,375,227,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Wyoming
+2014,Wyoming,Mike Enzi,R,3491953,1,R,375,227,https://en.m.wikipedia.org/wiki/2014_United_States_Senate_election_in_Wyoming
+2012,Arizona,Jeff Flake,R,9557420,1,R,243,442,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Arizona
+2012,Arizona,Richard Carmona,D,6451981,0,R,243,442,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Arizona
+2012,California,Dianne Feinstein,D,17152230,1,D,100,355,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_California
+2012,California,Elizabeth Emken,R,1110209,0,D,100,355,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_California
+2012,Connecticut,Chris Murphy,D,10436219,1,D,1083,217,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Connecticut
+2012,Connecticut,Linda McMahon,R,50735195,0,D,1083,217,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Connecticut
+2012,Delaware,Kevin Wade,R,181600,0,D,1046,303,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Delaware
+2012,Delaware,Tom Carper,D,5324026,1,D,1046,303,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Delaware
+2012,Florida,Bill Nelson,D,17127713,1,D,961,612,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Florida
+2012,Florida,Connie Mack,R,7526150.92,0,D,961,612,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Florida
+2012,Hawaii,Linda Lingle,R,5839282,0,D,382,682,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Hawaii
+2012,Hawaii,Mazie Hirono,D,5657753.57,1,D,382,682,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Hawaii
+2012,Indiana,Joe Donnelly,D,5588317.08,1,D,812,306,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Indiana
+2012,Indiana,Richard Mourdock,R,7873704,0,D,812,306,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Indiana
+2012,Maine,Angus King,D,2888522,1,D,1126,99,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Maine
+2012,Maine,Charlie Summers,R,1280838,0,D,1126,99,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Maine
+2012,Maryland,Ben Cardin,D,6224816,1,D,1014,297,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Maryland
+2012,Maryland,Dan Bongino,R,1767837,0,D,1014,297,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Maryland
+2012,Massachusetts,Elizabeth Warren,D,42211677,1,D,1093,192,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Massachusetts
+2012,Massachusetts,Scott Brown,R,29927011,0,D,1093,192,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Massachusetts
+2012,Michigan,Debbie Stabenow,D,13531442,1,D,827,209,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Michigan
+2012,Michigan,Pete Hoekstra,R,5777596,0,D,827,209,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Michigan
+2012,Minnesota,Amy Klobuchar,D,8944474,1,D,633,153,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Minnesota
+2012,Minnesota,Kurt Bills,R,955342,0,D,633,153,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Minnesota
+2012,Mississippi,Albert Gore,D,0,0,R,752,502,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Mississippi
+2012,Mississippi,Roger Wicker,R,2203166,1,R,752,502,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Mississippi
+2012,Missouri,Claire McCaskill,D,21424030,1,D,680,359,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Missouri
+2012,Missouri,Todd Akin,R,6099310.94,0,D,680,359,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Missouri
+2012,Montana,Denny Rehberg,R,9526859,0,D,340,118,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Montana
+2012,Montana,Jon Tester,D,13328572.35,1,D,340,118,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Montana
+2012,Nebraska,Bob Kerrey,D,6116555,0,R,520,273,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Nebraska
+2012,Nebraska,Deb Fischer,R,5176461,1,R,520,273,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Nebraska
+2012,Nevada,Dean Heller,R,9192588,1,R,167,290,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Nevada
+2012,Nevada,Shelley Berkley,D,11625854.21,0,R,167,290,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Nevada
+2012,New Jersey,Bob Menendez,D,16226545,1,D,1057,260,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_New_Jersey
+2012,New Jersey,Joe Kyrillos,R,4564876,0,D,1057,260,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_New_Jersey
+2012,New Mexico,Heather Wilson,R,7117800,0,D,377,450,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_New_Mexico
+2012,New Mexico,Martin Heinrich,D,6720126.34,1,D,377,450,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_New_Mexico
+2012,New York,Kirsten Gillibrand,D,14257872,1,D,1026,194,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_New_York
+2012,New York,Wendy Long,R,114560,0,D,1026,194,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_New_York
+2012,North Dakota,Heidi Heitkamp,D,5498044,1,D,525,116,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_North_Dakota
+2012,North Dakota,Rick Berg,R,6344251,0,D,525,116,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_North_Dakota
+2012,Ohio,Josh Mandel,R,18868809,0,D,884,294,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Ohio
+2012,Ohio,Sherrod Brown,D,24567107,1,D,884,294,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Ohio
+2012,Pennsylvania,Bob Casey Jr.,D,14414118,1,D,991,257,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Pennsylvania
+2012,Pennsylvania,Tom Smith,R,37681326,0,D,991,257,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Pennsylvania
+2012,Rhode Island,Barry Hinckley,R,1667695,0,D,1109,209,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Rhode_Island
+2012,Rhode Island,Sheldon Whitehouse,D,5183335,1,D,1109,209,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Rhode_Island
+2012,Tennessee,Bob Corker,R,9389714,1,R,823,418,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Tennessee
+2012,Tennessee,Mark E. Clayton,D,0,0,R,823,418,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Tennessee
+2012,Texas,Paul Sadler,D,516509,0,R,532,547,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Texas
+2012,Texas,Ted Cruz,R,14618864,1,R,532,547,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Texas
+2012,Utah,Orrin Hatch,R,13133592,1,R,274,310,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Utah
+2012,Utah,Scott Howell,D,420779,0,R,274,310,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Utah
+2012,Vermont,Bernie Sanders,D,3247907,1,D,1066,145,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Vermont
+2012,Vermont,John MacGovern,R,131928,0,D,1066,145,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Vermont
+2012,Virginia,George Allen,R,14404154,0,D,991,342,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Virginia
+2012,Virginia,Tim Kaine,D,17918247,1,D,991,342,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Virginia
+2012,Washington,Maria Cantwell,D,11370413,1,D,143,62,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Washington
+2012,Washington,Michael Baumgartner,R,1003560,0,D,143,62,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Washington
+2012,West Virginia,Joe Manchin,D,3660906,1,D,932,327,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_West_Virginia
+2012,West Virginia,John Raese,R,1610493,0,D,932,327,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_West_Virginia
+2012,Wisconsin,Tammy Baldwin,D,15650796.55,1,D,729,195,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Wisconsin
+2012,Wisconsin,Tommy Thompson,R,9832888,0,D,729,195,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Wisconsin
+2012,Wyoming,John Barrasso,R,2532238,1,R,375,227,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Wyoming
+2012,Wyoming,Tim Chesnut,D,0,0,R,375,227,https://en.m.wikipedia.org/wiki/2012_United_States_Senate_election_in_Wyoming
+2010,Alabama,Richard Shelby,R,2647169,1,R,822,500,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Alabama
+2010,Alabama,William G. Barnes,D,5871,0,R,822,500,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Alabama
+2010,Alaska,Lisa Murkowski,R,4605972,1,R,117,601,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Alaska
+2010,Alaska,Scott McAdams,D,1268031,0,R,117,601,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Alaska
+2010,Arizona,John McCain,R,22076918,1,R,243,442,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Arizona
+2010,Arizona,Rodney Glassman,D,1401586,0,R,243,442,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Arizona
+2010,Arkansas,Blanche Lincoln,D,12662526,0,R,684,460,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Arkansas
+2010,Arkansas,John Boozman,R,3666977,1,R,684,460,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Arkansas
+2010,California,Barbara Boxer,D,8643395,1,D,100,355,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_California
+2010,California,Carly Fiorina,R,22635900,0,D,100,355,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_California
+2010,Colorado,Ken Buck,R,4895276.67,0,D,396,338,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Colorado
+2010,Colorado,Michael Bennet,D,13082307,1,D,396,338,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Colorado
+2010,Connecticut,Linda McMahon,R,50181464,0,D,1083,217,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Connecticut
+2010,Connecticut,Richard Blumenthal,D,8718286,1,D,1083,217,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Connecticut
+2010,Delaware,Chris Coons,D,3869062,1,D,1046,303,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Delaware
+2010,Delaware,Christine O'Donnell,R,6999106,0,D,1046,303,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Delaware
+2010,Florida,Kendrick Meek,D,9280964,0,R,961,612,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Florida
+2010,Florida,Marco Rubio,R,21638315,1,R,961,612,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Florida
+2010,Georgia,Johnny Isakson,R,9054540,1,R,896,492,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Georgia
+2010,Georgia,Mike Thurmond,D,336174,0,R,896,492,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Georgia
+2010,Hawaii,Campbell Cavasso,R,275095,0,D,382,682,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Hawaii
+2010,Hawaii,Daniel Inouye,D,6165818,1,D,382,682,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Hawaii
+2010,Idaho,Mike Crapo,R,3382275,1,R,240,179,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Idaho
+2010,Idaho,Tom Sullivan,D,99836,0,R,240,179,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Idaho
+2010,Illinois,Alexi Giannoulias,D,9902006,0,R,750,307,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Illinois
+2010,Illinois,Mark Kirk,R,14146755.64,1,R,750,307,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Illinois
+2010,Indiana,Brad Ellsworth,D,2590431.33,0,R,812,306,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Indiana
+2010,Indiana,Dan Coats,R,0,1,R,812,306,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Indiana
+2010,Iowa,Chuck Grassley,R,7797516,1,R,658,260,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Iowa
+2010,Iowa,Roxanne Conlin,D,3123307,0,R,658,260,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Iowa
+2010,Kansas,Jerry Moran,R,6548665,1,R,555,355,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Kansas
+2010,Kansas,Lisa Johnston,D,31235,0,R,555,355,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Kansas
+2010,Kentucky,Jack Conway,D,6127990,0,R,855,366,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Kentucky
+2010,Kentucky,Rand Paul,R,7675875,1,R,855,366,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Kentucky
+2010,Louisiana,Charlie Melancon,D,4718938.34,0,R,687,557,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Louisiana
+2010,Louisiana,David Vitter,R,12880079,1,R,687,557,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Louisiana
+2010,Maryland,Barbara Mikulski,D,4893404,1,D,1014,297,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Maryland
+2010,Maryland,Eric Wargotz,R,1240730,0,D,1014,297,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Maryland
+2010,Massachusetts,Martha Coakley,D,9592502,0,R,1093,192,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Massachusetts
+2010,Massachusetts,Scott Brown,R,11085821,1,R,1093,192,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Massachusetts
+2010,Missouri,Robin Carnahan,D,10311557,0,R,680,359,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Missouri
+2010,Missouri,Roy Blunt,R,12141841,1,R,680,359,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Missouri
+2010,Nevada,Harry Reid,D,25989654,1,D,167,290,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Nevada
+2010,Nevada,Sharron Angle,R,28262487,0,D,167,290,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Nevada
+2010,New Hampshire,Kelly Ayotte,R,5041009,1,R,1092,157,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_New_Hampshire
+2010,New Hampshire,Paul Hodes,D,4912819,0,R,1092,157,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_New_Hampshire
+2010,New York,Chuck Schumer,D,19356984,1,D,1026,194,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_New_York
+2010,New York,Jay Townsend,R,217593,0,D,1026,194,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_New_York
+2010,North Carolina,Elaine Marshall,D,2872386,0,R,991,403,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_North_Carolina
+2010,North Carolina,Richard Burr,R,6274147,1,R,991,403,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_North_Carolina
+2010,North Dakota,John Hoeven,R,2909158,1,R,525,116,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_North_Dakota
+2010,North Dakota,Tracy Potter,D,28279,0,R,525,116,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_North_Dakota
+2010,Ohio,Lee Fisher,D,6383162,0,R,884,294,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Ohio
+2010,Ohio,Rob Portman,R,5257618,1,R,884,294,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Ohio
+2010,Oklahoma,Jim Rogers,D,0,0,R,575,437,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Oklahoma
+2010,Oklahoma,Tom Coburn,R,3102901,1,R,575,437,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Oklahoma
+2010,Oregon,Jim Huffman,R,2204734,0,D,120,150,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Oregon
+2010,Oregon,Ron Wyden,D,8529394,1,D,120,150,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Oregon
+2010,Pennsylvania,Joe Sestak,D,13806119,0,R,991,257,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Pennsylvania
+2010,Pennsylvania,Pat Toomey,R,16998137,1,R,991,257,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Pennsylvania
+2010,South Carolina,Alvin Greene,D,0,0,R,956,458,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_South_Carolina
+2010,South Carolina,Jim DeMint,R,5419447,1,R,956,458,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_South_Carolina
+2010,Utah,Mike Lee,R,1801351,1,R,274,310,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Utah
+2010,Utah,Sam Granato,D,305629,0,R,274,310,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Utah
+2010,Vermont,Len Britton,R,231484,0,D,1066,145,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Vermont
+2010,Vermont,Patrick Leahy,D,4122015,1,D,1066,145,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Vermont
+2010,Washington,Dino Rossi,R,9572813,0,D,143,62,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Washington
+2010,Washington,Patty Murray,D,17279813,1,D,143,62,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Washington
+2010,West Virginia,Joe Manchin,D,4017802,1,D,932,327,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_West_Virginia
+2010,West Virginia,John Raese,R,2828701,0,D,932,327,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_West_Virginia
+2010,Wisconsin,Ron Johnson,R,15316651,1,R,729,195,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Wisconsin
+2010,Wisconsin,Russ Feingold,D,20342208,0,R,729,195,https://en.m.wikipedia.org/wiki/2010_United_States_Senate_election_in_Wisconsin
+2008,Alabama,Jeff Sessions,R,4021680,1,R,822,500,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Alabama
+2008,Alabama,Vivian Davis Figures,D,332007,0,R,822,500,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Alabama
+2008,Alaska,Mark Begich,D,4453292,1,D,117,601,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Alaska
+2008,Alaska,Ted Stevens,R,5676409,0,D,117,601,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Alaska
+2008,Arkansas,Mark Pryor,D,3799989,1,D,684,460,https://en.wikipedia.org/wiki/2008_United_States_Senate_election_in_Arkansas
+2008,Arkansas,Rebekah Kennedy,I,13392,0,D,684,460,https://en.wikipedia.org/wiki/2008_United_States_Senate_election_in_Arkansas
+2008,Colorado,Bob Schaffer,R,7266658,0,D,396,338,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Colorado
+2008,Colorado,Mark Udall,D,12987562,1,D,396,338,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Colorado
+2008,Delaware,Christine O'Donnell,R,115058,0,D,1046,303,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Delaware
+2008,Delaware,Joe Biden,D,8217880,1,D,1046,303,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Delaware
+2008,Georgia,Jim Martin,D,7508505,0,R,896,492,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Georgia
+2008,Georgia,Saxby Chambliss,R,18048111,1,R,896,492,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Georgia
+2008,Idaho,Jim Risch,R,3573256,1,R,240,179,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Idaho
+2008,Idaho,Larry LaRocco,D,1421746,0,R,240,179,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Idaho
+2008,Illinois,Dick Durbin,D,13112372,1,D,750,307,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Illinois
+2008,Illinois,Steve Sauerberg,R,12040340,0,D,750,307,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Illinois
+2008,Iowa,Christopher Reed,R,58793,0,D,658,260,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Iowa
+2008,Iowa,Tom Harkin,D,7055014,1,D,658,260,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Iowa
+2008,Kansas,Jim Slattery,D,1677905,0,R,555,355,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Kansas
+2008,Kansas,Pat Roberts,R,6925381,1,R,555,355,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Kansas
+2008,Kentucky,Bruce Lunsfordd,D,10801203,0,R,855,366,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Kentucky
+2008,Kentucky,Mitch McConnell,R,23282998,1,R,855,366,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Kentucky
+2008,Louisiana,John Kennedy,R,4984104,0,D,687,557,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Louisiana
+2008,Louisiana,Mary Landrieu,D,11425226,1,D,687,557,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Louisiana
+2008,Maine,Susan Collins,R,7996626,1,R,1126,99,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Maine
+2008,Maine,Tom Allen,D,6462451,0,R,1126,99,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Maine
+2008,Massachusetts,Jeff Beatty,R,2070528,0,D,1093,192,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Massachusetts
+2008,Massachusetts,John Kerry,D,26304596,1,D,1093,192,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Massachusetts
+2008,Michigan,Carl Levin,D,7669160,1,D,827,209,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Michigan
+2008,Michigan,Jack Hoogendyk,R,301993,0,D,827,209,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Michigan
+2008,Minnesota,Al Franken,D,21066834,1,D,633,153,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Minnesota
+2008,Minnesota,Norm Coleman,R,21821755,0,D,633,153,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Minnesota
+2008,Mississippi,Erik Fleming,D,0,0,R,752,502,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Mississippi
+2008,Mississippi,Thad Cochran,R,2832197,1,R,752,502,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Mississippi
+2008,Montana,Bob Kelleher,R,0,0,D,340,118,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Montana
+2008,Montana,Max Baucus,D,9455359,1,D,340,118,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Montana
+2008,Nebraska,Mike Johanns,R,3781316,1,R,520,273,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Nebraska
+2008,Nebraska,Scott Kleeb,D,1910877.23,0,R,520,273,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Nebraska
+2008,New Hampshire,Jeanne Shaheen,D,8336872,1,D,1092,157,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_New_Hampshire
+2008,New Hampshire,John E. Sununu,R,8868017,0,D,1092,157,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_New_Hampshire
+2008,New Jersey,Dick Zimmer,R,1498766,0,D,1057,260,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_New_Jersey
+2008,New Jersey,Frank Lautenberg,D,9197282,1,D,1057,260,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_New_Jersey
+2008,New Mexico,Steve Pearce,R,4626706.31,0,D,377,450,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_New_Mexico
+2008,New Mexico,Tom Udall,D,7841888.73,1,D,377,450,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_New_Mexico
+2008,North Carolina,Elizabeth Dole,R,20205245,0,D,991,403,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_North_Carolina
+2008,North Carolina,Kay Hagan,D,8953274,1,D,991,403,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_North_Carolina
+2008,Oklahoma,Andrew Rice,D,2868819,0,R,575,437,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Oklahoma
+2008,Oklahoma,Jim Inhofe,R,6428174,1,R,575,437,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Oklahoma
+2008,Oregon,Gordon H. Smith,R,13941337,0,D,120,150,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Oregon
+2008,Oregon,Jeff Merkley,D,6501315,1,D,120,150,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Oregon
+2008,Rhode Island,Gordon H. Smith,R,0,0,D,1109,209,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Rhode_Island
+2008,Rhode Island,Jack Reed,D,3175641,1,D,1109,209,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Rhode_Island
+2008,South Carolina,Bob Conley,D,15202,0,R,956,458,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_South_Carolina
+2008,South Carolina,Lindsey Graham,R,6765148,1,R,956,458,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_South_Carolina
+2008,South Dakota,Joel Dykstra,R,905366,0,D,525,194,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_South_Dakota
+2008,South Dakota,Tim Johnson,D,5433369,1,D,525,194,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_South_Dakota
+2008,Tennessee,Bob Tuke,D,846386,0,R,823,418,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Tennessee
+2008,Tennessee,Lamar Alexander,R,7831903,1,R,823,418,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Tennessee
+2008,Texas,John Cornyn,R,18994698,1,R,532,547,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Texas
+2008,Texas,Rick Noriega,D,4157553,0,R,532,547,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Texas
+2008,Virginia,Jim Gilmore,R,2420635,0,D,991,342,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Virginia
+2008,Virginia,Mark Warner,D,12515479,1,D,991,342,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Virginia
+2008,West Virginia,Jay Rockefeller,D,6977280,1,D,932,327,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_West_Virginia
+2008,West Virginia,Jay Wolfe,R,123720,0,D,932,327,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_West_Virginia
+2008,Wyoming,Chris Rothfuss,D,27258,0,R,375,227,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Wyoming
+2008,Wyoming,Mike Enzi,R,2129834,1,R,375,227,https://en.m.wikipedia.org/wiki/2008_United_States_Senate_election_in_Wyoming
+2006,Arizona,Jim Pederson,D,14709241,0,R,243,442,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Arizona
+2006,Arizona,Jon Kyl,R,16103008,1,R,243,442,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Arizona
+2006,California,Dianne Feinstein,D,9403030,1,D,100,355,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_California
+2006,California,Dick Mountjoy,R,195265,0,D,100,355,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_California
+2006,Connecticut,Joe Lieberman,I,19099162,1,I,1083,217,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Connecticut
+2006,Connecticut,Ned Lamont,D,20557217,0,I,1083,217,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Connecticut
+2006,Delaware,Jan Ting,R,212765,0,D,1046,303,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Delaware
+2006,Delaware,Tom Carper,D,3708592,1,D,1046,303,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Delaware
+2006,Florida,Bill Nelson,D,17112000,1,D,961,612,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Florida
+2006,Florida,Katherine Harris,R,9334232.45,0,D,961,612,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Florida
+2006,Hawaii,Cynthia Thielen,R,356413,0,D,382,682,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Hawaii
+2006,Hawaii,Daniel Akaka,D,3193721,1,D,382,682,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Hawaii
+2006,Maine,Jean Hay Bright,D,126824,0,R,1126,99,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Maine
+2006,Maine,Olympia Snowe,R,3157047,1,R,1126,99,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Maine
+2006,Maryland,Ben Cardin,D,8676056,1,D,1014,297,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Maryland
+2006,Maryland,Michael Steele,R,8219686,0,D,1014,297,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Maryland
+2006,Massachusetts,Kenneth Case,R,0,0,D,1093,192,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Massachusetts
+2006,Massachusetts,Ted Kennedy,D,12558114,1,D,1093,192,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Massachusetts
+2006,Michigan,Debbie Stabenow,D,12426995,1,D,827,209,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Michigan
+2006,Michigan,Mike Bouchard,R,6050148,0,D,827,209,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Michigan
+2006,Minnesota,Amy Klobuchar,D,9092974,1,D,633,153,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Minnesota
+2006,Minnesota,Mark Kennedy,R,9721994,0,D,633,153,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Minnesota
+2006,Mississippi,Erik Fleming,D,38495,0,R,752,502,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Mississippi
+2006,Mississippi,Trent Lott,R,3186225,1,R,752,502,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Mississippi
+2006,Missouri,Claire McCaskill,D,11983906,1,D,680,359,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Missouri
+2006,Missouri,Jim Talent,R,15382811,0,D,680,359,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Missouri
+2006,Montana,Conrad Burns,R,9181004,0,D,340,118,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Montana
+2006,Montana,Jon Tester,D,5589653,1,D,340,118,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Montana
+2006,Nebraska,Ben Nelson,D,7312507,1,D,520,273,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Nebraska
+2006,Nebraska,Pete Ricketts,R,13417690,0,D,520,273,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Nebraska
+2006,Nevada,Jack Carter,D,2264708,0,R,167,290,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Nevada
+2006,Nevada,John Ensign,R,5315993,1,R,167,290,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Nevada
+2006,New Jersey,Bob Menendez,D,13328665.09,1,D,1057,260,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_New_Jersey
+2006,New Jersey,Thomas Kean Jr.,R,7762373,0,D,1057,260,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_New_Jersey
+2006,New Mexico,Allen McCulloch,R,555511,0,D,377,450,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_New_Mexico
+2006,New Mexico,Jeff Bingaman,D,3387019,1,D,377,450,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_New_Mexico
+2006,New York,Hillary Clinton,D,40891327,1,D,1026,194,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_New_York
+2006,New York,John Spencer,R,5660688,0,D,1026,194,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_New_York
+2006,North Dakota,Dwight Grotberg,R,259081,0,D,525,116,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_North_Dakota
+2006,North Dakota,Kent Conrad,D,4142781,1,D,525,116,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_North_Dakota
+2006,Ohio,Mike DeWine,R,16084478,0,D,884,294,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Ohio
+2006,Ohio,Sherrod Brown,D,10752666.65,1,D,884,294,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Ohio
+2006,Pennsylvania,Rick Santorum,R,28414203,0,D,991,257,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Pennsylvania
+2006,Pennsylvania,Rob Casey Jr.,D,17605419,1,D,991,257,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Pennsylvania
+2006,Rhode Island,Lincoln Chafee,R,5885670,0,D,1109,209,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Rhode_Island
+2006,Rhode Island,Sheldon Whitehouse,D,6428954,1,D,1109,209,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Rhode_Island
+2006,Tennessee,Bob Corker,R,23451092,1,R,823,418,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Tennessee
+2006,Tennessee,Harold Ford Jr.,D,15302455.36,0,R,823,418,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Tennessee
+2006,Texas,Barbara Ann Radnofsky,D,1425867,0,R,532,547,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Texas
+2006,Texas,Kay Bailey Hutchinson,R,0,1,R,532,547,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Texas
+2006,Utah,Orrin Hatch,R,4706415,1,R,274,310,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Utah
+2006,Utah,Pete Ashdown,D,255729,0,R,274,310,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Utah
+2006,Vermont,Bernie Sanders,D,6004222,1,D,1066,145,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Vermont
+2006,Vermont,Richard Tarrant,R,7300392,0,D,1066,145,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Vermont
+2006,Virginia,George Allen,R,16929574,0,D,991,342,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Virginia
+2006,Virginia,Jim Webb,D,8561970,1,D,991,342,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Virginia
+2006,Washington,Maria Cantwell,D,24037936,1,D,143,62,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Washington
+2006,Washington,Mike McGavick,R,10842132,0,D,143,62,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Washington
+2006,West Virginia,John Raese,R,3147967,0,D,932,327,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_West_Virginia
+2006,West Virginia,Robert Byrd,D,5531966,1,D,932,327,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_West_Virginia
+2006,Wisconsin,Herb Kohl,D,6998097,1,D,729,195,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Wisconsin
+2006,Wisconsin,Robert Lorge,R,176987,0,D,729,195,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Wisconsin
+2006,Wyoming,Craig L. Thomas,R,1629704,1,R,375,227,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Wyoming
+2006,Wyoming,Dale Groutage,D,141164,0,R,375,227,https://en.m.wikipedia.org/wiki/2006_United_States_Senate_election_in_Wyoming
+2004,Alabama,Richard Shelby,R,2615933,1,R,822,500,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Alabama
+2004,Alabama,Wayne Sowell,D,4869,0,R,822,500,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Alabama
+2004,Alaska,Lisa Murkowski,R,5465098,1,R,117,601,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Alaska
+2004,Alaska,Tony Knowles,D,5768963,0,R,117,601,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Alaska
+2004,Arizona,John McCain,R,4253338,1,R,243,442,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Arizona
+2004,Arizona,Stuart Starky,D,12716,0,R,243,442,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Arizona
+2004,Arkansas,Blanche Lincoln,D,6414146,1,D,684,460,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Arkansas
+2004,Arkansas,Jim Holt,R,148682,0,D,684,460,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Arkansas
+2004,California,Barbara Boxer,D,16479210,1,D,100,355,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_California
+2004,California,Bill Jones,R,7124083,0,D,100,355,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_California
+2004,Colorado,Ken Salazar,D,9886551,1,D,396,338,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Colorado
+2004,Colorado,Pete Coors,R,7858598.96,0,D,396,338,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Colorado
+2004,Connecticut,Chris Dodd,D,6475870,1,D,1083,217,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Connecticut
+2004,Connecticut,Jack Orchulli,R,1462401,0,D,1083,217,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Connecticut
+2004,Florida,Betty Castor,D,11703489.1,0,R,961,612,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Florida
+2004,Florida,Mel Martinez,R,12821250.39,1,R,961,612,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Florida
+2004,Georgia,Denise Majette,D,2445696.24,0,R,896,492,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Georgia
+2004,Georgia,Johnny Isakson,R,8038201.11,1,R,896,492,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Georgia
+2004,Hawaii,Campbell Cavasso,R,57123,0,D,382,682,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Hawaii
+2004,Hawaii,Daniel Inouye,D,2707351,1,D,382,682,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Hawaii
+2004,Idaho,Mike Crapo,R,1316401,1,R,240,179,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Idaho
+2004,Idaho,Scott McClure,D,0,0,R,240,179,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Idaho
+2004,Illinois,Alan Keyes,R,2545325,0,D,750,307,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Illinois
+2004,Illinois,Barack Obama,D,14597465,1,D,750,307,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Illinois
+2004,Indiana,Evan Bayh,D,2928874,1,D,812,306,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Indiana
+2004,Indiana,Marvin Scott,R,2242526,0,D,812,306,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Indiana
+2004,Iowa,Arthur Small,D,135503,0,R,658,260,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Iowa
+2004,Iowa,Chuck Grassley,R,7287736,1,R,658,260,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Iowa
+2004,Kansas,Lee Jones,D,102931,0,R,555,355,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Kansas
+2004,Kansas,Sam Brownback,R,2882129,1,R,555,355,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Kansas
+2004,Kentucky,Daniel Mongiardo,D,3104981,0,R,855,366,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Kentucky
+2004,Kentucky,Jim Bunning,R,6690804,1,R,855,366,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Kentucky
+2004,Louisiana,Chris John,D,4869165,0,R,687,557,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Louisiana
+2004,Louisiana,David Vitter,R,7206714,1,R,687,557,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Louisiana
+2004,Maryland,Barbara Mikulski,D,6610221,1,D,1014,297,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Maryland
+2004,Maryland,E. J. Pipkin,R,2300354,0,D,1014,297,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Maryland
+2004,Missouri,Kit Bond,R,8316771,1,R,680,359,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Missouri
+2004,Missouri,Nancy Farmer,D,3553458,0,R,680,359,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Missouri
+2004,Nevada,Harry Reid,D,7595323,1,D,167,290,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Nevada
+2004,Nevada,Richard Ziser,R,647500.55,0,D,167,290,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Nevada
+2004,New Hampshire,Doris Haddock,D,177199,0,R,1092,157,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_New_Hampshire
+2004,New Hampshire,Judd Gregg,R,2516901,1,R,1092,157,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_New_Hampshire
+2004,New York,Chuck Schumer,D,18153522,1,D,1026,194,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_New_York
+2004,New York,Howard Mills III,R,628578,0,D,1026,194,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_New_York
+2004,North Carolina,Erskine Bowles,D,13359764,0,R,991,403,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_North_Carolina
+2004,North Carolina,Richard Burr,R,12856982,1,R,991,403,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_North_Carolina
+2004,North Dakota,Byron Dorgan,D,3114959,1,D,525,116,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_North_Dakota
+2004,North Dakota,Mike Liffrig,R,381125,0,D,525,116,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_North_Dakota
+2004,Ohio,Eric Fingerhut,D,1166538,0,R,884,294,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Ohio
+2004,Ohio,George Voinovich,R,9978829,1,R,884,294,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Ohio
+2004,Oklahoma,Brad Carson,D,6288528,0,R,575,437,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Oklahoma
+2004,Oklahoma,Tom Coburn,R,5138066,1,R,575,437,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Oklahoma
+2004,Oregon,Al King,R,35718,0,D,120,150,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Oregon
+2004,Oregon,Ron Wyden,D,3478307,1,D,120,150,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Oregon
+2004,Pennsylvania,Arlen Specter,R,21885111,1,R,991,257,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Pennsylvania
+2004,Pennsylvania,Joe Hoeffel,D,4540209,0,R,991,257,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Pennsylvania
+2004,South Carolina,Inez Tenenbaum,D,6265786,0,R,956,458,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_South_Carolina
+2004,South Carolina,Jim DeMint,R,9701108,1,R,956,458,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_South_Carolina
+2004,South Dakota,John Thune,R,14666225,1,R,525,194,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_South_Dakota
+2004,South Dakota,Tom Daschle,D,21351871,0,R,525,194,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_South_Dakota
+2004,Utah,Bob Bennett,R,2956741,1,R,274,310,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Utah
+2004,Utah,Paul Van Dam,D,116959,0,R,274,310,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Utah
+2004,Vermont,John A. McMullen,R,782637,0,D,1066,145,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Vermont
+2004,Vermont,Patrick Leahy,D,1975348,1,D,1066,145,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Vermont
+2004,Washington,George Nethercutt,R,7726296,0,D,143,62,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Washington
+2004,Washington,Patty Murray,D,12479970,1,D,143,62,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Washington
+2004,Wisconsin,Russ Feingold,D,11230624,1,D,729,195,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Wisconsin
+2004,Wisconsin,Tim Michels,R,5542087,0,D,729,195,https://en.m.wikipedia.org/wiki/2004_United_States_Senate_election_in_Wisconsin
+2002,Alabama,Jeff Sessions,R,5862221,1,R,822,500,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Alabama
+2002,Alabama,Susan Parker,D,1185718,0,R,822,500,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Alabama
+2002,Alaska,Frank J. Vondersaar,D,0,0,R,117,601,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Alaska
+2002,Alaska,Ted Stevens,R,3185680,1,R,117,601,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Alaska
+2002,Arkansas,Mark Pryor,D,4414148,1,D,684,460,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Arkansas
+2002,Arkansas,Tim Hutchinson,R,5426407,0,D,684,460,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Arkansas
+2002,Colorado,Tom Strickland,D,5217111,0,R,396,338,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Colorado
+2002,Colorado,Wayne Allard,R,5365623,1,R,396,338,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Colorado
+2002,Delaware,Joe Biden,D,3755451,1,D,1046,303,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Delaware
+2002,Delaware,Raymond J. Clatworthy,R,2041927,0,D,1046,303,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Delaware
+2002,Georgia,Max Cleland,D,10037541,0,R,896,492,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Georgia
+2002,Georgia,Saxby Chambliss,R,9753045,1,R,896,492,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Georgia
+2002,Idaho,Alan Blinken,D,2170928,0,R,240,179,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Idaho
+2002,Idaho,Larry Craig,R,3431756,1,R,240,179,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Idaho
+2002,Illinois,Dick Durbin,D,5872708,1,D,750,307,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Illinois
+2002,Illinois,Jim Durkin,R,794634,0,D,750,307,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Illinois
+2002,Iowa,Greg Ganske,R,5392510,0,D,658,260,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Iowa
+2002,Iowa,Tom Harkin,D,8402094,1,D,658,260,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Iowa
+2002,Kansas,Pat Roberts,R,1308938,1,R,555,355,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Kansas
+2002,Kansas,Steven A. Rosile,I,0,0,R,555,355,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Kansas
+2002,Kentucky,Lois Combs Weinberg,D,2245048,0,R,855,366,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Kentucky
+2002,Kentucky,Mitch McConnell,R,5747691,1,R,855,366,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Kentucky
+2002,Louisiana,Mary Landrieu,D,10189456,1,D,687,557,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Louisiana
+2002,Louisiana,Suzanne Haik Terrell,R,3721152,0,D,687,557,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Louisiana
+2002,Maine,Chellie Pingree,D,3806798,0,R,1126,99,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Maine
+2002,Maine,Susan Collins,R,4146355,1,R,1126,99,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Maine
+2002,Massachusetts,John Kerry,D,15076887,1,D,1093,192,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Massachusetts
+2002,Massachusetts,Michael E. Cloud,I,207684,0,D,1093,192,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Massachusetts
+2002,Michigan,Carl Levin,D,4392905,1,D,827,209,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Michigan
+2002,Michigan,Rocky Raczkowski,R,1014856,0,D,827,209,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Michigan
+2002,Minnesota,Norm Coleman,R,10035279,1,R,633,153,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Minnesota
+2002,Minnesota,Walter Mondale,D,1861569,0,R,633,153,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Minnesota
+2002,Mississippi,Shawn O'Hara,I,0,0,R,752,502,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Mississippi
+2002,Mississippi,Thad Cochran,R,1828553,1,R,752,502,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Mississippi
+2002,Montana,Max Baucus,D,6806915,1,D,340,118,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Montana
+2002,Montana,Mike Taylor,R,1839020,0,D,340,118,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Montana
+2002,Nebraska,Charlie A. Matulka,D,0,0,R,520,273,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Nebraska
+2002,Nebraska,Chuck Hagel,R,3078145,1,R,520,273,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Nebraska
+2002,New Hampshire,Jeanne Shaheen,D,5806219,0,R,1092,157,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_New_Hampshire
+2002,New Hampshire,John E. Sununu,R,3545925,1,R,1092,157,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_New_Hampshire
+2002,New Jersey,Doug Forrester,R,10606843,0,D,1057,260,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_New_Jersey
+2002,New Jersey,Frank Lautenberg,D,2929206,1,D,1057,260,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_New_Jersey
+2002,New Mexico,Gloria Tristani,D,836604,0,R,377,450,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_New_Mexico
+2002,New Mexico,Pete Domenici,R,4661981,1,R,377,450,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_New_Mexico
+2002,North Carolina,Elizabeth Dole,R,13735220,1,R,991,403,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_North_Carolina
+2002,North Carolina,Erskine Bowles,D,13306317,0,R,991,403,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_North_Carolina
+2002,Oklahoma,David Walters,D,2072137,0,R,575,437,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Oklahoma
+2002,Oklahoma,Jim Inhofe,R,3464697,1,R,575,437,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Oklahoma
+2002,Oregon,Bill Bradbury,D,2104194,0,R,120,150,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Oregon
+2002,Oregon,Gordon H. Smith,R,8803827,1,R,120,150,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Oregon
+2002,Rhode Island,Jack Reed,D,2640970,1,D,1109,209,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Rhode_Island
+2002,Rhode Island,Robert Tingle,R,0,0,D,1109,209,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Rhode_Island
+2002,South Carolina,Alex Sanders,D,4211812,0,R,956,458,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_South_Carolina
+2002,South Carolina,Lindsey Graham,R,6788050,1,R,956,458,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_South_Carolina
+2002,South Dakota,John Thune,R,5989043,0,D,525,194,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_South_Dakota
+2002,South Dakota,Tim Johnson,D,6990442,1,D,525,194,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_South_Dakota
+2002,Tennessee,Bob Clement,D,2832990,0,R,823,418,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Tennessee
+2002,Tennessee,Lamar Alexander,R,3771804,1,R,823,418,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Tennessee
+2002,Texas,John Cornyn,R,9769780,1,R,532,547,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Texas
+2002,Texas,Ron Kirk,D,9426763,0,R,532,547,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Texas
+2002,Virginia,John Warner,R,2528020,1,R,991,342,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Virginia
+2002,Virginia,Nancy Spannaus,I,61984,0,R,991,342,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Virginia
+2002,West Virginia,Jay Rockefeller,D,2951511,1,D,932,327,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_West_Virginia
+2002,West Virginia,Jay Wolfe,R,136935,0,D,932,327,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_West_Virginia
+2002,Wyoming,Joyce Jansa Corcoran,D,8467,0,R,375,227,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Wyoming
+2002,Wyoming,Mike Enzi,R,1130628,1,R,375,227,https://en.m.wikipedia.org/wiki/2002_United_States_Senate_election_in_Wyoming
+2000,Arizona,Jon Kyl,R,2803412,1,R,243,442,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Arizona
+2000,Arizona,William Toel,I,21541,0,R,243,442,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Arizona
+2000,California,Dianne Feinstein,D,10347170,1,D,100,355,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_California
+2000,California,Tom Campbell,R,4378283,0,D,100,355,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_California
+2000,Connecticut,Joe Lieberman,D,4433522,1,D,1083,217,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Connecticut
+2000,Connecticut,Phillip Giordano,R,1276376,0,D,1083,217,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Connecticut
+2000,Delaware,Tom Carper,D,2607021,1,D,1046,303,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Delaware
+2000,Delaware,William Roth,R,4446962,0,D,1046,303,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Delaware
+2000,Florida,Bill McCollum,R,8664112,0,D,961,612,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Florida
+2000,Florida,Bill Nelson,D,6635919,1,D,961,612,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Florida
+2000,Hawaii,Daniel Akaka,D,868775,1,D,382,682,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Hawaii
+2000,Hawaii,John Carroll,R,97407,0,D,382,682,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Hawaii
+2000,Indiana,David Johnson,D,1451786,0,R,812,306,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Indiana
+2000,Indiana,Richard Lugar,R,5236312,1,R,812,306,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Indiana
+2000,Maine,Mark Lawrence,D,735728,0,R,1126,99,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Maine
+2000,Maine,Olympia Snowe,R,2332898,1,R,1126,99,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Maine
+2000,Maryland,Paul Rappaport,R,146866,0,D,1014,297,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Maryland
+2000,Maryland,Paul Sarbanes,D,2000007,1,D,1014,297,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Maryland
+2000,Massachusetts,Jack E. Robinson III,R,163927,0,D,1093,192,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Massachusetts
+2000,Massachusetts,Ted Kennedy,D,7974105,1,D,1093,192,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Massachusetts
+2000,Michigan,Debbie Stabenow,D,8194574,1,D,827,209,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Michigan
+2000,Michigan,Spencer Abraham,R,14514848,0,D,827,209,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Michigan
+2000,Minnesota,Mark Dayton,D,11957114,1,D,633,153,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Minnesota
+2000,Minnesota,Rod Grams,R,7640147,0,D,633,153,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Minnesota
+2000,Mississippi,Trent Lott,R,4358828,1,R,752,502,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Mississippi
+2000,Mississippi,Troy Brown,D,0,0,R,752,502,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Mississippi
+2000,Missouri,John Ashcroft,R,9868309,0,D,680,359,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Missouri
+2000,Missouri,Mel Carnahan,D,8891026,1,D,680,359,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Missouri
+2000,Montana,Brian Schweitzer,D,1966027,0,R,340,118,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Montana
+2000,Montana,Conrad Burns,R,5165809,1,R,340,118,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Montana
+2000,Nebraska,Ben Nelson,D,2922637,1,D,520,273,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Nebraska
+2000,Nebraska,Don Stenberg,R,1868406,0,D,520,273,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Nebraska
+2000,Nevada,Edward M. Bernstein,D,2449093,0,R,167,290,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Nevada
+2000,Nevada,John Ensign,R,4872276,1,R,167,290,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Nevada
+2000,New Jersey,Bob Franks,R,6388885,0,D,1057,260,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_New_Jersey
+2000,New Jersey,Jon Corzine,D,63209506,1,D,1057,260,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_New_Jersey
+2000,New Mexico,Jeff Bingaman,D,3113060,1,D,377,450,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_New_Mexico
+2000,New Mexico,William T. Redmond,R,703522,0,D,377,450,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_New_Mexico
+2000,New York,Hillary Clinton,D,41493864,1,D,1026,194,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_New_York
+2000,New York,Rick Lazio,R,40576273,0,D,1026,194,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_New_York
+2000,North Dakota,Duane Sand,R,399584,0,D,525,116,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_North_Dakota
+2000,North Dakota,Kent Conrad,D,2600077,1,D,525,116,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_North_Dakota
+2000,Ohio,Mike DeWine,R,7181845,1,R,884,294,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Ohio
+2000,Ohio,Ted Celeste,D,477176,0,R,884,294,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Ohio
+2000,Pennsylvania,Rick Santorum,R,12911306,1,R,991,257,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Pennsylvania
+2000,Pennsylvania,Ron Klink,D,3941166,0,R,991,257,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Pennsylvania
+2000,Rhode Island,Lincoln Chafee,R,2265221,1,R,1109,209,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Rhode_Island
+2000,Rhode Island,Robert Weygand,D,2297885,0,R,1109,209,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Rhode_Island
+2000,Tennessee,Bill Frist,R,11859123,1,R,823,418,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Tennessee
+2000,Tennessee,Jeff Clark,D,276105,0,R,823,418,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Tennessee
+2000,Texas,Gene Kelly,D,4602,0,R,532,547,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Texas
+2000,Texas,Kay Bailey Hutchinson,R,4291077,1,R,532,547,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Texas
+2000,Utah,Orrin Hatch,R,4273545,1,R,274,310,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Utah
+2000,Utah,Scott Howell,D,299239,0,R,274,310,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Utah
+2000,Vermont,Ed Flanagan,D,1085003,0,R,1066,145,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Vermont
+2000,Vermont,Jim Jeffords,R,2084027,1,R,1066,145,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Vermont
+2000,Virginia,Chuck Robb,D,7413272,0,R,991,342,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Virginia
+2000,Virginia,George Allen,R,9999711,1,R,991,342,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Virginia
+2000,Washington,Maria Cantwell,D,11533295,1,D,143,62,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Washington
+2000,Washington,Slade Gorton,R,7332167,0,D,143,62,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Washington
+2000,West Virginia,David T. Gallaher,R,0,0,D,932,327,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_West_Virginia
+2000,West Virginia,Robert Byrd,D,1246830,1,D,932,327,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_West_Virginia
+2000,Wisconsin,Herb Kohl,D,5491991,1,D,729,195,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Wisconsin
+2000,Wisconsin,John Gillespie,R,582221,0,D,729,195,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Wisconsin
+2000,Wyoming,Craig L. Thomas,R,949597,1,R,375,227,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Wyoming
+2000,Wyoming,Mel Logan,D,4187,0,R,375,227,https://en.m.wikipedia.org/wiki/2000_United_States_Senate_election_in_Wyoming

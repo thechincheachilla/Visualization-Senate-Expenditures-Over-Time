@@ -1,0 +1,14 @@
+{
+  "name": "@e55dec4cc10085c1/amount-spent-on-us-senate-election-campaigns",
+  "main": "7bee328fc9c7728a@1864.js",
+  "version": "1864.0.0",
+  "homepage": "https://observablehq.com/@e55dec4cc10085c1/amount-spent-on-us-senate-election-campaigns",
+  "author": {
+    "name": "Reiden Chea",
+    "url": "https://observablehq.com/@e55dec4cc10085c1"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
