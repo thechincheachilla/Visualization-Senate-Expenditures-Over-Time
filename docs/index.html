@@ -1,0 +1,273 @@
+<!DOCTYPE HTML>
+<html xml:lang="en" lang="en">
+<head>
+  <title>CSE442 | A3 | Amount Spent on US Senate Election Campaigns</title>
+  <style media="all">
+* { padding: 0; margin: 0; }
+ body {
+  margin: 0 auto 0 auto;
+  padding: 0;
+  max-width: 1200px;
+  font-family: "Avenir", "Avenir Next", Helvetica Neue, Arial;
+  font-size: 0.95em;
+}
+ a, a:visited { text-decoration: none; color: #2c9c91; }
+a:hover { text-decoration: underline; color: #17dcff; }
+ h1, h2, h3, h4, h5 {
+  color: #207068;
+  background-color: inherit;
+  font-weight: normal;
+  padding: 0 0 5px 0;
+  margin: 15px 0 0 0;
+  border: none;
+  clear: right;
+}
+h1 { font-size: 24pt; margin:  5px 0 10px 0; line-height: 28px; }
+h2 { font-size: 14pt; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
+h3 { font-size: 13pt; }
+h4 { font-size: 12pt; }
+h5 { font-size: 11pt; }
+p { margin: 0 0 10px 0; }
+ .content {
+  margin: 0;
+  padding: 15px 20px;
+  background-color: #ffffff;
+}
+ .title, .title h1, .title a {
+  color: #207068;
+  font-size: 24pt;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+ .footer {
+  border-top: 1px solid #ccc;
+  margin-top: 30px;
+  padding-top: 4px;
+  text-align: right;
+  font-size: 12px;
+}
+.footer a {
+  color: #21346B;
+}
+.footer a:hover {
+  color: #ce3333;
+}
+  </style>
+</head>
+<body>
+<div class="content">
+   <section class="title">
+    <a href="https://observablehq.com/@e55dec4cc10085c1/amount-spent-on-us-senate-election-campaigns">Amount Spent on US Senate Election Campaigns in the 21st Century</a>
+  </section>
+
+   <section>
+    <p>
+      <strong>Team Members</strong>: Mahda Soltani, Reiden Alexander Chea, Jennifer Fernandez
+    </p>
+  </section>
+
+   <section>
+    <div id="observablehq-color-b3fc8222" style="display:none"></div>
+    <div id="observablehq-size-b3fc8222" style="display:none"></div>
+    <div id="observablehq-margin-b3fc8222" style="display:none"></div>
+    <div id="observablehq-y_coor-b3fc8222" style="display:none"></div>
+    <div id="observablehq-x_coor-b3fc8222" style="display:none"></div>
+    <div id="observablehq-height-b3fc8222" style="display:none"></div>
+    <div id="observablehq-width-b3fc8222" style="display:none"></div>
+    <div id="observablehq-init-b3fc8222" style="display:none"></div>
+    <div id="observablehq-years-b3fc8222" style="display:none"></div>
+    <div id="observablehq-senate_spendings-b3fc8222" style="display:none"></div>
+    <div id="observablehq-US_map-b3fc8222" style="display:none"></div>
+    <div id="observablehq-d3-b3fc8222" style="display:none"></div>
+    <div id="observablehq-styles-b3fc8222" style="display:none"></div>
+    <div id="observablehq-theme_NoUiSlider-b3fc8222" style="display:none"></div>
+    <div id="observablehq-SelectionModel-b3fc8222" style="display:none"></div>
+    <div id="observablehq-party_legend-6d9b3eee" style="display:none"></div>
+    <div id="observablehq-winner_legend-6d9b3eee" style="display:none"></div>
+    <div id="observablehq-title-b3fc8222" style="display:none"></div>
+    <div id="observablehq-desc1-b3fc8222"></div>
+    <div id="observablehq-desc2-b3fc8222"></div>
+    <div id="observablehq-desc3-b3fc8222"></div>
+    <div id="observablehq-desc4-b3fc8222"></div>
+    <div id="observablehq-viewof-electionCycles-b3fc8222"></div>
+    <div id="observablehq-dyn_title-b3fc8222" style="display:none"></div>
+    <div id="observablehq-map_chart-b3fc8222"></div>
+    <p>Credit (Source Code): <a href="https://observablehq.com/@e55dec4cc10085c1/amount-spent-on-us-senate-election-campaigns">Amount Spent on US Senate Election Campaigns by Mahda Soltani, Reiden Chea, and Jennifer Fernandez</a></p>
+
+    <script type="module">
+      import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+      import define from "https://api.observablehq.com/@e55dec4cc10085c1/amount-spent-on-us-senate-election-campaigns.js?v=3";
+      new Runtime().module(define, name => {
+        if (name === "map_chart") return new Inspector(document.querySelector("#observablehq-map_chart-b3fc8222"));
+        if (name === "color") return new Inspector(document.querySelector("#observablehq-color-b3fc8222"));
+        if (name === "size") return new Inspector(document.querySelector("#observablehq-size-b3fc8222"));
+        if (name === "margin") return new Inspector(document.querySelector("#observablehq-margin-b3fc8222"));
+        if (name === "y_coor") return new Inspector(document.querySelector("#observablehq-y_coor-b3fc8222"));
+        if (name === "x_coor") return new Inspector(document.querySelector("#observablehq-x_coor-b3fc8222"));
+        if (name === "height") return new Inspector(document.querySelector("#observablehq-height-b3fc8222"));
+        if (name === "width") return new Inspector(document.querySelector("#observablehq-width-b3fc8222"));
+        if (name === "init") return new Inspector(document.querySelector("#observablehq-init-b3fc8222"));
+        if (name === "years") return new Inspector(document.querySelector("#observablehq-years-b3fc8222"));
+        if (name === "senate_spendings") return new Inspector(document.querySelector("#observablehq-senate_spendings-b3fc8222"));
+        if (name === "US_map") return new Inspector(document.querySelector("#observablehq-US_map-b3fc8222"));
+        if (name === "d3") return new Inspector(document.querySelector("#observablehq-d3-b3fc8222"));
+        if (name === "styles") return new Inspector(document.querySelector("#observablehq-styles-b3fc8222"));
+        if (name === "theme_NoUiSlider") return new Inspector(document.querySelector("#observablehq-theme_NoUiSlider-b3fc8222"));
+        if (name === "SelectionModel") return new Inspector(document.querySelector("#observablehq-SelectionModel-b3fc8222"));
+        if (name === "party_legend") return new Inspector(document.querySelector("#observablehq-party_legend-6d9b3eee"));
+        if (name === "theme_NoUiSlider") return new Inspector(document.querySelector("#observablehq-theme_NoUiSlider-6d9b3eee"));
+        if (name === "dyn_title") return new Inspector(document.querySelector("#observablehq-dyn_title-b3fc8222"));
+        if (name === "viewof electionCycles") return new Inspector(document.querySelector("#observablehq-viewof-electionCycles-b3fc8222"));
+        if (name === "desc4") return new Inspector(document.querySelector("#observablehq-desc4-b3fc8222"));
+        if (name === "desc3") return new Inspector(document.querySelector("#observablehq-desc3-b3fc8222"));
+        if (name === "desc2") return new Inspector(document.querySelector("#observablehq-desc2-b3fc8222"));
+        if (name === "desc1") return new Inspector(document.querySelector("#observablehq-desc1-b3fc8222"));
+        if (name === "title") return new Inspector(document.querySelector("#observablehq-title-b3fc8222"));
+      });
+    </script>
+  </section>
+
+  <section>
+    <h2>Design Decisions</h2>
+    <p>
+      Considering that each of the members of our team have experience and interest in national politics, we wanted 
+      to explore an aspect of politics many citizens are likely unaware of: senate campaign expenditures. In 2020, 
+      political spending came up to a grand total of $14.4 billion – that is, more than twice the total cost of the 
+      record-breaking 2016 presidential election cycle. That number includes campaign financing for nine of the ten most 
+      expensive Senate races in American history (Evers-Hillstrom, 2021). But perhaps more interesting were the reports 
+      indicating the stark differences between Democrats’ and Republicans’ campaign expenditures: Democrats ran up a $280 
+      million advantage, 64% more than Republican candidates’ total spending (Federal Election Commission). The intriguing 
+      opportunity presented by reports of such caliber motivated us to explore the amount spent on US senate election 
+      campaigns in races ranging from 2000 to 2020, while comparing each party’s spending to answer the question: “How 
+      have campaign expenditures of top senate candidates changed over the years?”
+    </p>
+    <p>
+      In order to create an exploratory visualization of campaign expenditures over time, we wanted to create visual encodings 
+      that represent spendings of the top two runoff candidates for each state per election cycle. We decided to implement these 
+      representations as circles over a map of the United States where each circle is sized based on how much money a specific candidate 
+      spent during a single election cycle, or the average spent by a party over a range of election cycles. To best represent our 
+      encodings, we colored them based on the party they represent: red for Republicans, blue for Democrats, and green for 3rd party 
+      candidates. In order to easily allow for viewers to select specific years or ranges of years, we decided to use a range slider 
+      at the top of our map. The slider works intuitively, especially since it pairs well with a dynamic chart header that we decided 
+      to add so that the user knows exactly what year or years they have selected. Although sizes of the circles are a good way to show 
+      viewers the magnitude of difference of campaign expenditures across parties, we wanted a way to convey information regarding 
+      specific states and races to the viewer. As such, we added a mouseover tooltip that displays specific senate race information 
+      on a single-year selection (Candidate, party, money spent, whether or not they won) and displays average campaign expenditures 
+      per party on a multi-year selection (Party, average money spent). We found this to be the best way to provide viewers with 
+      information they are seeking without overcrowding the visualization with text. Furthermore, considering that users may be 
+      interested in a particular party’s campaign expenditures over time, we added a legend selection to the right side of the chart. 
+      In addition, this prevents obfuscation of data in cases where two circles are of very similar sizes within the same state or 
+      where one circle is much larger than the other, making the smaller circle difficult to mouseover. Finally, considering that users 
+      may be interested in additional senate race information than we provided with our visualization, we added a navigation feature 
+      that takes users to the wiki page of a specific senate race on clicking the associated circle (single-year selection only). With 
+      these techniques, as well as the animations we employed, we sought to provide users the best experience when exploring senate 
+      campaign expenditures over time. 
+    </p>
+    <p>
+      During the process, we considered many different design alternatives. Decisions regarding what information to include from the 
+      underlying dataset remains the highest point of contention. Firstly, after some back and forth over the past week, we finally 
+      decided to disclude special election senatorial races. In many cases, a given state’s special election races occur within the same year 
+      as the standard election for that same state. As such, the data can become obscured, especially if candidates of the same party spend 
+      similar amounts of money, resulting in the same color circles of similar sizes. As a stretch goal, we wanted to add a legend selection 
+      to include/disclude special election races; ultimately, for now, we have left these races out. On a similar note, we also wanted to add 
+      a legend selection for the “winners” and “losers” of senate races in a certain given year. However, considering we dealt with bugs in 
+      conflicts with the current party selection legend, we decided to pursue this as a stretch goal for the time being. 
+    </p>
+    <p>
+      Capturing the size of the encoded circles themselves proved to be another point of contention. We wanted to ensure that individuals who raised very 
+      little money compared to their competitor did not encode to a circle that was too small to hover over. In addition, we wanted to ensure the largest 
+      circles did not obscure any of the data. With that said, overlapping circles were inevitable, especially in the New England region, and we did not 
+      feel the need to avoid it so long that all circles remained easy to hover over. As such, we decided a square root scale over a linear scale as this 
+      prevented obfuscation in cases where one candidate spent significantly higher amounts of money than their competitors. Ultimately, we based the 
+      largest sizes off of the 2016, 2018, and 2020 election cycles since the most money was raised during these years, hence, these years would produce 
+      the largest sized circles. 
+    </p>
+    <p>
+      Originally, we did not know whether or not we wanted to focus on individual senate races or to focus on year ranges in regards to campaign 
+      expenditures. We decided that supporting both options would not compromise either option, hence the difference in behavior when a user 
+      performs a single-year selection versus a multi-year selection. We believe this is the best way to return as much accurate information 
+      back to the user as possible. In addition, we explored two options for depicting multi-year selections: a sum of campaign expenditures 
+      per party or an average of campaign expenditures per party. Considering that campaign spendings have exploded within the past couple 
+      election cycles, using a sum could obfuscate spendings from earlier years. In addition, using a sum would likely result in our circles 
+      all becoming overwhelmingly large. However an average captures both the massive spendings within recent years as well as the small amounts 
+      of expenditures in the early 2000s. In addition, the circles will represent smaller numbers, keeping the sizes down as a whole. As such, 
+      we decided to encode the average expenditures per party over a multi-year selection.
+    </p>
+  </section>
+
+  <section>
+    <h2>Development Process</h2>
+    <p>
+      Mahda was responsible for organizing our brainstorming sessions and compiling our list of data sources based on our chosen topic, senate election campaign expenditures over time (2 hours). The selected datasets are as follows: 
+      <div style="padding-left: 15px;">
+      <p>1.  Federal Election Commission for election expenditures - https://www.fec.gov/data/spending-bythenumbers/?election_year=2020&office=S</p>
+      <p>2. Wikipedia for election results and names of two runoff candidates - https://en.wikipedia.org/wiki/2020_United_States_Senate_elections</p>
+      </div>
+    </p>
+    <p>
+      Jennifer was responsible for wrangling and extracting senate election data into a CSV spreadsheet. In particular, for each election cycle, 
+      she gathered the years, states, names of each state’s two runoff candidates, their party associations, their losses/wins, and their total 
+      expenditures in dollars. (18 hours). The most reliable dataset, directly provided by the FEC, was not easy to extract campaign expenditures 
+      from; the candidates were listed on separate pages, with only ten per page, and searching for individual receipts proved to be a tedious 
+      process. It was decided to only collect data for standard senate races and disclude special elections; candidates of the same party in a 
+      special election year overlapped with each other, and the implementation of special election races was determined to be a stretch goal. 
+      Furthermore, Mahda generated and documented the Wikipedia link to each race and the appropriate coordinates of each state with regards to 
+      a map of the United States (all of which were used for our visual encodings) (4 hours).
+    </p>
+    <p>
+      Reiden was responsible for the majority of the D3 implementation aspect of the assignment through Observable (22 hours), with occasional assistance from Mahda (8 hours). The development process for our visualization is as follows: 
+      <div style="padding-left: 15px;">
+        <p>1. Generate appropriately sized and colored circle encodings for each state’s senate race in 2020.</p>
+        <p>2. Add a slider functionality to select the individual years 2016, 2018, and 2020.</p>
+        <p>3. Integrate the slider with the chart and ensure that the circle encodings change appropriately with the slider (non-animated).</p>
+        <p>4. Load in a map of the US and re-position each of the circles to be appropriately placed within their states.</p>
+        <p>5. Add transition animations for the circle encodings as the slider moves through the selected election cycles.</p>
+        <p>6. Replace the single-year selection slider with a multi-year selection slider.</p>
+        <p>7. Encode circle sizes as aggregate mean campaign expenditures for each party for multi-year selections.</p>
+        <p>8. Add a dynamic “years” header at the top of the chart.</p>
+        <p>9. Add a tooltip to, on hover over a circle, display specific senate race data for single-year selections and aggregate race data for multi-year selection.</p>
+        <p>10. For single-year selections, integrate navigation to a given senate race’s corresponding wikipedia page on click.</p>
+        <p>11. Add a color legend (political party) to the right side of the chart.</p>
+        <p>12. Add a selection model to the color legend to add select/non-select functionality to the legend.</p>
+        <p>13. Integrate the legend selection with the chart to make certain parties’ circles visible/hidden.</p>
+        <p>14. Export the observable document to our GitHub index file.</p>
+        <p>15. Work on stretch goals: Integrating special senate races, integrating an additional winner/loser selection field, fixing issues with stacked circles for multi-year selection, etc.</p>
+      </div>
+    </p>
+    <p>
+      Lastly, Mahda was responsible for the majority of the writeup (4 hours) with additional input and editing by Reiden and Jennifer. 
+    </p>
+    <p>
+      Grand total of hours: 58 hours – with visual encodings taking the longest (34 hours).
+    </p>
+  </section> 
+  <section>
+    <h2>Resourses</h2>
+    <div> 
+      <p>K. Evers-Hillstrom, 2021 “Most expensive ever: 2020 election cost $14.4 billion”</p>
+      <br>
+      <p>Federal Election Commission: “https://www.fec.gov/data/spending-bythenumbers/?election_year=2020&office=S”</p>
+      <p>Election results and names of two runoff candidates: “https://en.wikipedia.org/wiki/2020_United_States_Senate_elections”</p>
+      <p>Range Slider: https://observablehq.com/@mootari/range-slider#theme_GoogleChrome_MacOS1013</p>
+      <p>Map picture: https://observablehq.com/@observablehq/d3-u-s-map</p>
+    </div>
+  </section>
+
+  <div class="footer">
+    <a href="https://courses.cs.washington.edu/courses/cse442/21au/">CSE 442 Data Visualization</a>
+    <a href="http://www.washington.edu">University of Washington</a>
+  </div>
+ </div>
+</body>
+</html> 
+
+    </div>
+  </section>
+
+  <div class="footer">
+    <a href="https://courses.cs.washington.edu/courses/cse442/21au/">CSE 442 Data Visualization</a>
+    <a href="http://www.washington.edu">University of Washington</a>
+  </div>
+ </div>
+</body>
+</html> 
