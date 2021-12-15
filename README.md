@@ -5,6 +5,6 @@ Team members:
 *Reiden Alexander Chea 
 *Jennifer Fernandez
 
-Project page: https://cse442-21f.github.io/A3-Political-Parties-Vote-Share-And-Money/  
+Project page: https://thechincheachilla.github.io/Visualization-Senate-Expenditures-Over-Time/
 
 Modify or replace `index.html` in the `docs` folder to update your project page.
