@@ -6,5 +6,3 @@ Team members:
 *Jennifer Fernandez
 
 Project page: https://thechincheachilla.github.io/Visualization-Senate-Expenditures-Over-Time/
-
-Modify or replace `index.html` in the `docs` folder to update your project page.
